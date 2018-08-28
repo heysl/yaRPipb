@@ -11,7 +11,7 @@ Some facts about my setup:
 - Official RaspberryPi touchscreen, but any monitor should work.
 - a big fat red arcade button on top of the case for users to joyfully smash on.
 - a simple button inside the case to stop the script without need of a keyboard or any other interface.
-- a 64GB USB drive to be save of crashing SD-cards
+- a 64GB USB drive to be safe of crashing SD-cards
 
 Features:
 
@@ -23,7 +23,7 @@ Features:
   - number of pictures
   - file path for results
 
-##### Credits
+### Credits
 
 Most inspiration - and actually the whole pygame related part of my code - are from drumminhands photobooth: https://github.com/drumminhands/drumminhands_photobooth
 
